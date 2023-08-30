@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@500&family=Poppins&family=Roboto+Slab&display=swap');
+*{
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: #ECF0F3;
+}
+.gmail{
+    height: 420px;
+    width: 650px;
+    background-color: #F7F8FA;
+    align-items: center;
+    justify-content: center;
+    padding: 60px;
+    margin: 120px auto;
+    border-radius: 30px;
+    box-shadow: 0px 3px 10px rgba(0,0, 0, 0.1);
+
+}
+.gmail p{
+    margin-top: 20px;
+}
+.gmail .button{
+    width: 200px;
+    height: 40px;
+    background-color: steelblue;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 30px;
+    line-height: 35px;
+    box-shadow: 0px 3px 10px rgba(0,0, 0, 0.1);
+     
+}
+.letter{
+    display: flex;
+    margin-bottom: 70px;
+    
+   
+}
+.letter a{
+   
+    margin-top: 20px;
+}
+.letter p{
+    color: #5558AD;
+    margin-left: 8px;
+}
+
+.button a{
+    color: #ECF0F3;
+    text-decoration: none;
+}
+.button i{
+    width: 20px;
+}
+.icon{
+    display: flex;
+   
+   
+  
+}
+.icon i{
+background-color: #EEEFF6;
+ padding: 10px;
+ margin: 10px;
+ border-radius: 20px;
+}
